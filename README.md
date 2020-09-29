@@ -1,3 +1,3 @@
 # Indonesia
 
-Contain resources for the events happen in ID region.
+This repo contains resources for events that happen in Indonesia.
